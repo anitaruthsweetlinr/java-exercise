@@ -11,6 +11,6 @@ public class FindAverage {
         int n2 = sc.nextInt();
         System.out.println("Enter second number : ");
         int n3 = sc.nextInt();
-        System.out.println("Average of the given three numbers is " + ((n1+n2+n3)/3)23);
+        System.out.println("Average of the given three numbers is " + ((n1+n2+n3)/3));
     }
 }
