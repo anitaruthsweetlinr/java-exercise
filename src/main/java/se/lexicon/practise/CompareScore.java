@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 public class CompareScore {
     public static void main(String[] args) {
-        int score = 0;
+        int score;
         Scanner scObj = new Scanner(System.in);
-        System.out.println("Enter score :" +
-                "");
+        System.out.println("Enter score :");
         score = scObj.nextInt();
         if(score > 65) {
             System.out.println("Hurray, you passed!");
