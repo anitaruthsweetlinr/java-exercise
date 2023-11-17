@@ -4,7 +4,18 @@ import java.util.Scanner;
 
 public class MathOperation {
     public static void main(String[] args) {
-        //Exercise-3
+        //Exercise -3
+        /*System.out.println("Exercise-3");
+        int number1 = 23;
+        int number2 = 12;
+        System.out.println("Add "+number1+"+"+number2+" = "+(number1+number2));
+        System.out.println("Subtract "+number1+"-"+number2+" = "+(number1-number2));
+        System.out.println("Multiply "+number1+"*"+number2+" = "+(number1*number2));
+        System.out.println("Divide "+number1+"/"+number2+" = "+(number1/number2));*/
+
+
+        //Exercise-6
+        System.out.println("Exercise-6");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number : ");
         int n1 = sc.nextInt();
