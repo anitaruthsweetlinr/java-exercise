@@ -1,4 +1,4 @@
-package org.example;
+package se.lexicon.exercise;
 
 import java.util.Scanner;
 
